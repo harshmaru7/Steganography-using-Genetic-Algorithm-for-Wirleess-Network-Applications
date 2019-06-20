@@ -1,5 +1,5 @@
 # Steganography-using-Genetic-Algorithm
-Steganography using Genetic Algorithm for wireless network applications March 2019
+Steganography using Genetic Algorithm for Wireless Network Applications March 2019
 
 Language :Python3
 
